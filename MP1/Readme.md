@@ -1,0 +1,3 @@
+### Top directory for MP1 recipes
+
+This folder will have App/Board support recipes name like GNSS1, MP1, RTKLIB ...
