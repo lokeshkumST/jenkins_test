@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "cp -r files/X-LINUX-GNSS1-V1.2.0 $YOCTO_BUILD_PATH_JENKINS/"
 echo "cp -r files/X-LINUX-GNSS1-V1.2.0 env.$YOCTO_BUILD_PATH_JENKINS/"
 echo "cd $YOCTO_TOP_PATH_JENKINS"
